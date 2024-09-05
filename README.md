@@ -1,4 +1,4 @@
-# veeam-7zip-extract-script
+# bat-7zip-extract-script
 
 The script created for unpacking generations of Veeam Backup & Replication logs for more convenient troubleshooting.<br/>
 Veeam Backup & Replication logs have only one level down of recursion.<br/>
